@@ -7,3 +7,4 @@ This is a E-commerce application that deals with the back-end of the website. Th
 - MySql2
 - dotenv
 ## Demo
+https://youtu.be/6F5Iq_MlhSI
